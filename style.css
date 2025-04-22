@@ -1,0 +1,10 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap");
+:root{ 
+    --cor-principal: #6e859f;
+    --cor-secundaria: #284260;
+    --cor-destaque: #c92bfc
+}
+body{
+    font-family: ;
+}
